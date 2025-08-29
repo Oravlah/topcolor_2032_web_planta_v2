@@ -24,4 +24,4 @@ COPY . .
 EXPOSE 8050
 
 # Comando para iniciar la aplicación
-CMD ["python", "main2.py"]
+CMD ["python", "main_2.py"]
