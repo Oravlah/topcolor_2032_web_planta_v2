@@ -1,0 +1,14 @@
+dash
+flask-login
+sqlalchemy
+flask-sqlalchemy
+dash_core_components
+dash_html_components
+dash-bootstrap-components
+pymysql
+pandas
+requests
+python-dotenv
+dash_daq
+dash-auth
+
